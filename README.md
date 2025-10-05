@@ -84,10 +84,6 @@ Currently exploring **AI & ML integrations** for next-gen mobile solutions.
 
 ---
 
-👉 **See all projects & case studies here:**  
-📌 [Portfolio Website](https://sanjaysingh1990.github.io/sanjaysinghbisht/)  
-
-
 👉 More on my [Portfolio](https://sanjaysingh1990.github.io/iamsanjaysinghbisht/)
 
 ---
