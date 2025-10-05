@@ -19,6 +19,9 @@ Currently exploring **AI & ML integrations** for next-gen mobile solutions.
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+   <img src="https://img.shields.io/badge/Python-FFCA28?style=flat&logo=python&logoColor=black" />
+   <img src="https://img.shields.io/badge/React Native-FFCA28?style=flat&logo=reactnative&logoColor=black" />
+  <img src="https://img.shields.io/badge/N8N-FFCA28?style=flat&logo=N8N&logoColor=black" />
 </p>
 
 ---
